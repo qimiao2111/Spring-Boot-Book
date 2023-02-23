@@ -39,9 +39,17 @@
   
   ### 08 
   - 用ORM操作SQL数据库
-    + 
+    + Jdbc
+    + JpaArticleDemo
+    + JpaEntityDemo
+    + JpaManyToManyDemo
+    + JpaOneToManyDemo
+    + JpaOneToOneDemo
+    + MybatisCURD Page
   
   ### 09
   - 接口架构风格-RESTful
-    + 
+    + RESTful
+    + RestTemplateDemo
+    + Swagger
 
