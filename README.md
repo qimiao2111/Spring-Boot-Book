@@ -3,7 +3,7 @@
   - 开发环境准备
   
   ### 04
-  -  Spring boot 基础
+  - Spring boot 基础
     + HelloWorldBoot
     + MultiYmlDemo
     + PropertiesDemo
