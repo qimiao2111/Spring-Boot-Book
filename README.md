@@ -53,3 +53,44 @@
     + RestTemplateDemo
     + Swagger
 
+  ### 10
+  - 集成安全框架，实现安全认证和授权
+    + JSR_250Demo
+    + JwtDemo
+    + RbacDemo
+    + ShiroJpaMysql
+    + SpringSecuritySimpleDemo
+
+  ### 11
+  - 集成Redis 实现高并发
+    + CacheDemo
+    + JpaArticleRedisDemo
+    + Redis
+    + RedisCURD
+    + RedisSession
+
+  ### 12
+  - 集成RabbitMQ 实现系统间数据交换
+    + Rabbitmq_DelayedDemo
+    + Rabbitmq_FanoutDemo
+    + Rabbitmq_ObjectDemo
+    + Rabbitmq_QueueDemo
+    + Rabbitmq_TopicDemo
+
+  ### 13
+  - 集成NoSQL数据库 实现搜索引擎
+    + ELKDemo
+    + ElasticsearchProductDemo
+    + ElasticsearchProductSearch
+    + ElasticsearchProductSearchDemo
+    + Solr
+
+  ### 14
+  - 开发企业级通用的后台系统
+    + ManagementSystemDemo
+
+  ### 15
+  - 实现类似京东的电子商城
+    + JD_Demo
+
+ 
